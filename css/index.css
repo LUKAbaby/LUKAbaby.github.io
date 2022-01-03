@@ -1464,6 +1464,13 @@ a {
 a:hover {
   color: #49b1f5;
 }
+#site-title,
+#site-subtitle,
+#site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: Serious Life.;
+}
 .is-center {
   text-align: center;
 }
@@ -2082,6 +2089,7 @@ blockquote footer cite:before {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
+  font-family: Serious Life.;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
